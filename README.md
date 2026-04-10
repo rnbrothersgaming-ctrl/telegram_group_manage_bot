@@ -171,8 +171,8 @@ telegram-group-bot
 
 # 👨‍💻 Author
 
-**MD Rifat Sarkar**
-Github: https://github.com/RifatDev01
+**MD Rifat Sarkar**  
+Github: https://github.com/RifatDev01    
 Telegram: https://t.me/Rifat204BD
 
 ---
