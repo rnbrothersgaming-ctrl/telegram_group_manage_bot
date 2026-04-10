@@ -993,7 +993,7 @@ function sendStatusPage(res) {
       <div class="badge">Working</div>
       <h1>Bot is online</h1>
       <p>Running for: <strong id="uptime">${uptime}</strong></p>
-      <footer>Developed by MD RIFAT SARKER</footer>
+      <footer>Developed by MD RIFAT SARKER (NO BI TA)</footer>
     </div>
   </div>
   <script>
